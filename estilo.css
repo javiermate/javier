@@ -1,0 +1,124 @@
+*{
+  margin: 0px;
+}
+
+body{ 
+    background:rgba(218, 221, 218, 0.877) ;
+    color: rgba(235, 235, 225, 0.712);
+   text-align: center;
+    margin: 0px;
+  }
+
+ul{
+list-style: none ;
+margin: 0px;
+padding: 0px;
+display: flex;
+height: inherit;
+
+font-size: 30px;
+ }
+
+ strong{ 
+  color: #99cc00;
+  }
+
+
+  .header{
+background:rgb(122, 122, 120) ;
+color: rgb(211, 211, 211);
+display: flex;
+justify-content: space-between;
+height: 90px;
+ }
+
+.header a {
+  color: rgb(79, 212, 212);
+  text-decoration: none;
+  height: inherit;
+  display: flex;
+  align-items: center;
+  padding: 0px 10px;
+}
+
+.header li{
+  height: inherit;
+}
+
+
+.menu{
+  height: inherit;
+}
+
+ .logo img{
+  width: 100px; 
+   }
+
+
+
+  .principal{  
+   background: rgb(121, 148, 179);
+  background-image: url('img/midro.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+     }
+     
+     .principal img{ 
+      width: 300px;
+      }
+
+      .principal-boton{
+        width: 200px;
+        height: 40px;
+        background-color:brown;
+        border-radius: 24px;
+        border: none;
+        font-size: 20px;
+        cursor: pointer;
+        margin-top: 30px;
+        margin-bottom: 40px;
+      }
+
+      .registro-boton{
+        width: 200px;
+        height: 40px;
+        background-color:brown;
+        border-radius: 24px;
+        border: none;
+        font-size: 20px;
+        cursor: pointer;
+        margin-top: 30px;
+        margin-bottom: 40px;
+      }
+
+      .principal2 h2{
+        color: #99cc00;
+        margin-bottom: 10px;
+       }
+
+       .principal2 p{
+        margin-bottom: 20px;
+        }
+
+       
+
+
+     .principal2{  
+      background:rgba(255, 0, 0, 0.733) ;
+      text-align: center;
+      padding:50px;
+      font-size: 20px;
+        }
+
+        .principal3{  
+          background: rgba(7, 45, 150, 0.733);
+          padding: 50px;
+          text-align: left;
+            }
+    
+.principal4{ 
+  background: rgba(7, 45, 150, 0.733);
+  text-align: left;
+  padding: 50px;
+ }
